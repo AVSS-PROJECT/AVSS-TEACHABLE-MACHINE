@@ -1,0 +1,4 @@
+0 BUS
+1 BIKE
+2 CAR
+3 TRUCK
